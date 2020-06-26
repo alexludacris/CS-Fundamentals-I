@@ -27,9 +27,9 @@ using namespace std;
 
         //opening the input and output files to allow information to be taken from one and assigned into another
         ifstream idata;
-        idata.open("Project2_A04702178_Input.txt");
+        idata.open("Project1_A04702178_Input.txt");
         ofstream odata;
-        odata.open("Project2_A04702178_Output.txt");
+        odata.open("Project1_A04702178_Output.txt");
 
         // fallback if input isnt opened correctly
         if (!idata)
