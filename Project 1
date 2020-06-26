@@ -1,5 +1,5 @@
 //* Program that reads an input file of a student. including his or her name, age, address, years at a school,
-telephone number, social security number, grades for 5 individuals tests. Calculates average and corresponding
+telephone number, social security number, grades for 5 individuals tests for 1 class. Calculates average and corresponding
 letter grade, and outputs message based on data receieved. *//
 
 
