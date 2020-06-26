@@ -1,4 +1,4 @@
-# CS-Fundamentals-I
+# CS Fundamentals I
 Projects assigned in CS 1428
   Information learned completing projects:
   •Binary data representation in the modern computer, including the representation of non-numeric data.
